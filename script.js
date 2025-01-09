@@ -4,9 +4,7 @@ let myString = "Jag heter Suzan";
 console.log(myString);
 
 let myNum = 43;
-console.log(myNum,"år.");
-
-
+console.log(myNum + "år.");
 console.log("Spelet STEGEN har börjat!");
 console.log("(Mål 1 - Mål 2 - Mål 3 - Mål 4 - Mål 5 - Mål 6) efter hur många Throws!?");
 console.log("-vissas till sist av Spelan");
